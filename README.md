@@ -1,2 +1,2 @@
-# assessing_biodiversity_metrics
+# Assessing_biodiversity_metrics
 Assessing biodiversity metrics
